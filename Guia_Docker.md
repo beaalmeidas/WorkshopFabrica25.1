@@ -167,3 +167,9 @@ docker-compose down
 ```sh
 docker-compose down -v
 ```
+
+---
+
+## Guias importantes para Docker:
+- https://docs.docker.com/
+- https://ubsocial.github.io/posts/docker/docker.html
